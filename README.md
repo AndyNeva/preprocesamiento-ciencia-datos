@@ -25,4 +25,5 @@ preprocesamiento-ciencia-datos/
 ├── data/
 │   ├── raw/                # Dataset original (sin modificar)
 │   └── processed/          # Dataset limpio resultante del pipeline
+├── docs/                   # Documentación técnica del proyecto
 └── notebooks/              # Exploración inicial de datos (EDA)
